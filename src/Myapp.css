@@ -1,7 +1,7 @@
 .myInfo{
     width: 300px;
     height: 400px;
-    background-color: rgb(10, 87, 230);
+    background-color: rgb(7, 108, 249);
 
     /*Center of Screen*/
     position: absolute;
@@ -19,6 +19,8 @@
     position: relative;
     left: 50%;
     transform: translate(-50%);
+
+    border-radius: 50px;
 }
 
 tr{
