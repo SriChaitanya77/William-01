@@ -8,7 +8,7 @@ function App() {
   return (
    <div className='dept'>
     Itachi is learning cse <br/>
-    <label className='dept'>information is everthing and valeable </label>
+    <label className='deptit'>information is everthing and valeable </label>
    </div>
   )
 }
